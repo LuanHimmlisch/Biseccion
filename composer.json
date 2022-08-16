@@ -1,0 +1,20 @@
+{
+    "name": "luanhimmlisch/biseccion",
+    "autoload": {
+        "psr-4": {
+            "LuanHimmlisch\\Biseccion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luan Himmlisch",
+            "email": "luan@himmlisch.com.mx"
+        }
+    ],
+    "require": {
+        "langleyfoxall/math_eval": "^2.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.1"
+    }
+}
